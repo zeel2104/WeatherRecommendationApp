@@ -1,5 +1,13 @@
 # 🌦️ Weather-Based Product Recommendation App
 
+
+
+![Image1]([https://github.com/user-attachments/assets/6c9f0cf9-7750-427d-9204-e830b93107a7](https://github.com/zeel2104/WeatherRecommendationApp/blob/main/pic1.png))
+![Image1]([https://github.com/user-attachments/assets/6c9f0cf9-7750-427d-9204-e830b93107a7](https://github.com/zeel2104/WeatherRecommendationApp/blob/main/pic2.png))
+![Image1]([https://github.com/user-attachments/assets/6c9f0cf9-7750-427d-9204-e830b93107a7](https://github.com/zeel2104/WeatherRecommendationApp/blob/main/pic3.png))
+![Image1]([https://github.com/user-attachments/assets/6c9f0cf9-7750-427d-9204-e830b93107a7](https://github.com/zeel2104/WeatherRecommendationApp/blob/main/pic4.png))
+![Image1]([https://github.com/user-attachments/assets/6c9f0cf9-7750-427d-9204-e830b93107a7](https://github.com/zeel2104/WeatherRecommendationApp/blob/main/pic5.png))
+
 Welcome to the **Weather-Based Product Recommendation** challenge! 🚀  
 This is a **Next.js + Prisma** project where you will integrate a **weather API**, query a database, and display relevant products based on the temperature.  
 
