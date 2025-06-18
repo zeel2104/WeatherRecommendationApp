@@ -1,0 +1,33 @@
+/* styles.css */
+.button {
+  background-color: #6366f1 !important;
+  color: white;
+  padding: 12px 24px;
+  font-size: 16px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.button:hover {
+  background-color: #4f46e5 !important;
+  transform: scale(1.05);  /* Add hover scale effect */
+}
+
+.card {
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);  /* Hover lift effect */
+  box-shadow: 0px 6px 16px rgba(0, 0, 0, 0.15);
+}
+
+img {
+  object-fit: cover;
+  border-radius: 8px;
+}
